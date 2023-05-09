@@ -243,7 +243,6 @@ df_corr.corr()
 ![2](https://user-images.githubusercontent.com/119160414/236832766-28e1f709-caf1-46fa-be2a-e6c222d4b7bd.png)
 
 ## Heatmap
-![heat](https://user-images.githubusercontent.com/119160414/236833028-b7386e46-f9b1-4653-b136-ec1dbcb42197.png)
-
+![image](https://user-images.githubusercontent.com/128135244/237009481-cc779479-d039-4370-87a3-48298b5b3b08.png)
 # Result:
 Thus, Data Visualization is performed on the given dataset and save the data to a file.
