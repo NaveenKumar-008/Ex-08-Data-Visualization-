@@ -216,9 +216,9 @@ df_corr.corr()
 ![withoutliers](https://user-images.githubusercontent.com/119160414/236832321-77c66a52-cc90-4977-b9c1-3272e897b5c8.png)
 ![withoutoutliers](https://user-images.githubusercontent.com/119160414/236832366-7485124d-7fb9-4b52-9365-1b9b2d68ce7b.png)
 ## Which Segment has Highest sales?
-![1](https://user-images.githubusercontent.com/119160414/236832404-8caef733-799b-4bea-8741-f0123b154f6d.png)
+![image](https://user-images.githubusercontent.com/128135244/237007730-3e1e46e9-fbe7-4362-bda1-be6d3862f988.png)
 
-![2](https://user-images.githubusercontent.com/119160414/236832465-3bea3445-beaf-405e-bffa-912eeed947cb.png)
+![image](https://user-images.githubusercontent.com/128135244/237007757-1046120f-79ea-48c8-b7bb-a8105cb47595.png)
 ## Which City has Highest profit?
 ![1](https://user-images.githubusercontent.com/119160414/236832527-70da59cd-3596-479f-aebc-6de5ca0b74ff.png)
 
