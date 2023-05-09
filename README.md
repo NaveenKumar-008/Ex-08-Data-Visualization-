@@ -245,18 +245,5 @@ df_corr.corr()
 ## Heatmap
 ![heat](https://user-images.githubusercontent.com/119160414/236833028-b7386e46-f9b1-4653-b136-ec1dbcb42197.png)
 
-## Find the relation between sales and profit based on the following category.
-
-### Segment
-![1](https://user-images.githubusercontent.com/119160414/236832694-fbb537c1-3724-4ea1-b770-4e445cd4a722.png)
-### City
-![2](https://user-images.githubusercontent.com/119160414/236832784-e06a0575-4f16-433d-b41b-1f28d72c36a5.png)
-### States
-![3](https://user-images.githubusercontent.com/119160414/236832855-c6c13bb5-1cad-4659-9045-f327b1e8b50d.png)
-### Segment and Ship Mode
-![4](https://user-images.githubusercontent.com/119160414/236832919-210be8a3-75fe-4594-9152-f027cce4a17b.png)
-### Segment, Ship mode and Region
-![5](https://user-images.githubusercontent.com/119160414/236832960-9603bdff-8250-4908-9c7f-d62bc0d75c0a.png)
-
 # Result:
 Thus, Data Visualization is performed on the given dataset and save the data to a file.
