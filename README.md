@@ -220,7 +220,7 @@ df_corr.corr()
 
 ![image](https://user-images.githubusercontent.com/128135244/237007757-1046120f-79ea-48c8-b7bb-a8105cb47595.png)
 ## Which City has Highest profit?
-![1](https://user-images.githubusercontent.com/119160414/236832527-70da59cd-3596-479f-aebc-6de5ca0b74ff.png)
+![image](https://user-images.githubusercontent.com/128135244/237008162-240e5a54-e067-4a5a-80fc-ec1c716c5854.png)
 
 ![2](https://user-images.githubusercontent.com/119160414/236832555-280b325b-947b-4189-8716-98e8c62725ba.png)
 ## Which ship mode is profitable?
